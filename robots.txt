@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lijun-note.github.io/sitemap.xml
